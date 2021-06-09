@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm F3ap 👋
+
+## Currently Learning 
+C# (I'm more at the learning level)
 
 <!--
 **F3ap/F3ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
