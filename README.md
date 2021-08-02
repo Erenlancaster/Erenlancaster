@@ -1,11 +1,11 @@
 ### Hi there I'm F3ap 👋
 
 ## Currently Learning 
-C# (I'm more at the learning level)
+<!--C# (I'm more at the learning level))-->
 
 
 ## My Projects
-[Tokenity](https://github.com/F3ap/Tokenity) (Discord Auto Account Creator + Joiner)
+<!--[Tokenity](https://github.com/F3ap/Tokenity) (Discord Auto Account Creator + Joiner)-->
 <!--
 **F3ap/F3ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
