@@ -1,6 +1,6 @@
 ### Hi there I'm F3ap 👋
 
-## Currently Learning 
+
 <!--C# (I'm more at the learning level))-->
 
 
