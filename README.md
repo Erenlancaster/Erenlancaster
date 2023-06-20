@@ -5,7 +5,7 @@
 
 
 ## My Projects
-[Zyrotify](https://github.com/Erenlancaster/Zyrotify) (Spotify Multi Tool)
+ - [Zyrotify](https://github.com/Erenlancaster/Zyrotify) (Spotify Multi Tool "checker,creator,follower etc." )
 <!--[Tokenity](https://github.com/F3ap/Tokenity) (Discord Auto Account Creator + Joiner)-->
 <!--
 **F3ap/F3ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
