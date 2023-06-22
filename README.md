@@ -6,6 +6,7 @@
 
 ## My Projects
  - [Zyrotify](https://github.com/Erenlancaster/Zyrotify) (Spotify Multi Tool "checker,creator,follower etc." )
+ - [0x403](https://github.com/Erenlancaster/0x403) (A simple script just made for self use for bypassing 403" )
 <!--[Tokenity](https://github.com/F3ap/Tokenity) (Discord Auto Account Creator + Joiner)-->
 <!--
 **F3ap/F3ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
