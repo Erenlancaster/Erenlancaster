@@ -1,5 +1,5 @@
 ### Hi there I'm Eren 👋
-
+I am interested in cyber security and pentest
 
 <!--C# (I'm more at the learning level))-->
 
